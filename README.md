@@ -1,2 +1,2 @@
 # p5
-[Play it here!](https://millachen.github.io/p5/empty-example/index.html)
+[Play it here!](https://millachen.github.io/p5/index.html)
